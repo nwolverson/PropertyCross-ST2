@@ -25,6 +25,6 @@
 
     <icon src="resources/icons/ApplicationIcon.png" />
 
-    <gap:splash src="resources/loading/Default.png"    gap:platform="ios"     width="320" height="480" />
+    <gap:splash src="resources/loading/Default.png" />
 
 </widget>
